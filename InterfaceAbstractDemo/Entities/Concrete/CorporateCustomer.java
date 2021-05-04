@@ -3,11 +3,7 @@ package Concrete;
 import Abstract.Customer;
 
 public class CorporateCustomer extends Customer  {
-
-	// CorporateCustomer classý proje yapýldýktan sorna
-	// Starbucks ve Nero bizim kurumsal firmalarada artýk hizmet vereceðiz.
-	// SOLID ' Ýn O — Open-closed principle yeni özellik geldiðinde programýn direnç
-	// göstermemesi adýna bunu eklemiþ oldum.
+	
 	
 	private long mersisNo;
 	private String taxNumber;
