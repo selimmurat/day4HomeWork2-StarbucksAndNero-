@@ -6,12 +6,7 @@ import java.util.Date;
 import Abstract.Customer;
 
 public class StudentCustomer extends Customer  {
-
-	// StudentCustomer classý proje yapýldýktan sorna
-	// Starbucks ve Nero firmasý biz öðrencilere her kahve alýmýnda daha fazla
-	// yýldýz ve fiyatta %20 indir yapmak istiyoruz.
-	// SOLID ' Ýn O — Open-closed principle yeni özellik geldiðinde programýn direnç
-	// göstermemesi adýna bunu eklemiþ oldum.
+	
 
 	private String NationalityId;
 	private String firstName;
